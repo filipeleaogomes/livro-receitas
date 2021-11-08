@@ -3,6 +3,6 @@
 -  Frango		
 -  Churrasco
 -  Molho temperado
--  Molho rose
+-  Molho de churrasco
 - 
 
