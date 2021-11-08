@@ -1,8 +1,8 @@
 # Livro de receitas :cake:
 
--  Frango		
--  Churrasco
--  Molho temperado
--  Molho rose
-- 
+- Frango
+- Churrasco
+- Molho temperado
+- Molho de rascunho
 
+  
